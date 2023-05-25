@@ -6,6 +6,7 @@ import org.openqa.selenium.support.PageFactory;
 import utilities.Driver;
 
 public class AmazonPage {
+
     // page class'lari surekli kullandigimiz locate islemeleri
     // ve varsa login gibi kucuk islevleri iceren method'lar barindirir
     // Selenium ile locate islemi veya herhangi bir islev gerceklestirmek istedigimizde
